@@ -1,0 +1,6 @@
+{
+  "name": "Lease Calculator",
+  "description": "Nauwkeurige en overzichtelijke lease calculator voor De hoge zeeën, inclusief installatiekosten, onderhoud, restwaarde en real-time rentetarieven.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
